@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Content/BAnchorAnimation.qml</file>
+        <file>Content/BColorAnimation.qml</file>
+        <file>Content/BNumberAnimation.qml</file>
+        <file>Content/BParentAnimation.qml</file>
+        <file>Content/BPathAnimation.qml</file>
+        <file>Content/BPropertyAnimation.qml</file>
+        <file>Content/BRotationAnimation.qml</file>
+    </qresource>
+</RCC>
