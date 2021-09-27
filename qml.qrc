@@ -8,5 +8,12 @@
         <file>Content/BPathAnimation.qml</file>
         <file>Content/BPropertyAnimation.qml</file>
         <file>Content/BRotationAnimation.qml</file>
+        <file>Content/BVector3dAnimation.qml</file>
+        <file>Content/BSequentialAnimation.qml</file>
+        <file>Content/BParallelAnimation.qml</file>
+        <file>Content/BBehavior.qml</file>
+        <file>Content/BPauseAnimation.qml</file>
+        <file>Content/BSpringAnimation.qml</file>
+        <file>Content/BSmoothedAnimation.qml</file>
     </qresource>
 </RCC>

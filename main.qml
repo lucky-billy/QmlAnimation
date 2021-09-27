@@ -14,4 +14,12 @@ Window {
 //    BPathAnimation {}
 //    BPropertyAnimation {}
 //    BRotationAnimation {}
+//    BVector3dAnimation {}
+
+//    BSequentialAnimation {}
+//    BParallelAnimation {}
+//    BBehavior {}
+//    BPauseAnimation {}
+//    BSpringAnimation {}
+//    BSmoothedAnimation {}
 }
