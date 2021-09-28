@@ -15,5 +15,6 @@
         <file>Content/BPauseAnimation.qml</file>
         <file>Content/BSpringAnimation.qml</file>
         <file>Content/BSmoothedAnimation.qml</file>
+        <file>Content/BScriptAction.qml</file>
     </qresource>
 </RCC>

@@ -22,4 +22,5 @@ Window {
 //    BPauseAnimation {}
 //    BSpringAnimation {}
 //    BSmoothedAnimation {}
+    BScriptAction {}
 }
